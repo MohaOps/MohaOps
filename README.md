@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Oracle, SQL Server, Postgresql, Linux**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
